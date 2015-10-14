@@ -1,0 +1,14 @@
+<?php
+
+class Settings{
+
+    const SERVER = "localhost";
+
+    const USERNAME = "root";
+
+    const PASSWORD = "";
+
+    const DATABASE = "";
+
+    const SALT = "";
+}
